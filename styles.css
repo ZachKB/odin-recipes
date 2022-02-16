@@ -3,8 +3,8 @@ body {
     color: #002e6b;
     background-color: #828382;
 }
-.list {
-    text-align:left;
+ul.list {
+    list-style-type:none;
 }
 
 button {
